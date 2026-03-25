@@ -154,8 +154,8 @@ End-to-end analytics solution processing **15k+ policy records**; implemented pr
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&title_color=575757&icon_color=888888&text_color=575757&bg_color=ffffff&border_color=c8c8c8" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&title_color=575757&text_color=575757&bg_color=ffffff&border_color=c8c8c8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dishajain123&show_icons=true&theme=default&title_color=575757&icon_color=888888&text_color=575757&bg_color=ffffff&border_color=c8c8c8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishajain123&layout=compact&title_color=575757&text_color=575757&bg_color=ffffff&border_color=c8c8c8" height="160"/>
 
 </div>
 
