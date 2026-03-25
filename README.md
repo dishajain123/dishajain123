@@ -5,13 +5,13 @@
 <h1 style="color:#575757;">Disha Mahendra Jain</h1>
 
 <p>
-  <a href="mailto:your@email.com">
+  <a href="mailto:dishajn550@gmail.com">
     <img src="https://img.shields.io/badge/Email-575757?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/disha-jain-690553204/">
     <img src="https://img.shields.io/badge/LinkedIn-575757?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/dishajain123">
     <img src="https://img.shields.io/badge/GitHub-575757?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
