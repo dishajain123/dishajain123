@@ -30,7 +30,7 @@
 
 Aspiring **Data Analyst** with expertise in data visualization, AI frameworks, and distributed data systems. Focused on delivering actionable insights through advanced analytics, ETL pipelines, and business intelligence tools.
 
-- Currently pursuing **B.E. in Artificial Intelligence and Data Science** at Rajiv Gandhi Institute of Technology, Mumbai — **CGPA: 8.96 / 10** *(Expected 2026)*
+- Currently pursuing **B.E. in Artificial Intelligence and Data Science** at Rajiv Gandhi Institute of Technology, Mumbai — **CGPA: 9.08 / 10** *(Expected 2026)*
 - Working as **Data Analyst Intern at Optireach Tech LLP**, building enterprise-scale financial data pipelines
 - Passionate about **Agentic AI**, **real-time data processing**, and **predictive modelling**
 
